@@ -13,3 +13,5 @@
   <p>Hosted with no watermark</p>
 </body>
 </html>
+<h1>Welcome to My Portfolio</h1>
+<p>Hi, I'm Sam. I'm a web developer and designer based in India.</p>
